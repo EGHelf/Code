@@ -1,4 +1,4 @@
-//*two_func.c--一个文件中包含两个函数*/
+/*two_func.c--一个文件中包含两个函数*/
 #include <stdio.h>
 void butler(void);  /*ANSI/ISO C函数原型*/
 int main(void)

@@ -1,4 +1,4 @@
-//fathm_ft.c--吧2英寻转换成英尺
+/*fathm_ft.c--把2英寻转换成英尺*/
 #include <stdio.h>
 int main(void)
 {
